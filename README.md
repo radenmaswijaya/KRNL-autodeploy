@@ -1,0 +1,2 @@
+# KRNL-autodeploy
+For VPS

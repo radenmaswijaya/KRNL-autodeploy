@@ -1,8 +1,10 @@
-# KRNL-autodeploy
-For Linux Ubuntu 24.04.1, Debian
+# KRNL-AUTODEPLOY
 
+Skrip auto-deploy untuk Linux Ubuntu 24.04.1 dan Debian.
 
-▫️Create Directory
+## 1. Salin Repository & Buat Folder
+
 ```bash
+git clone https://github.com/radenmaswijaya/KRNL-autodeploy.git
 mkdir krnl
 cd krnl
